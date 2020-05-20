@@ -5,6 +5,7 @@ This Repository is going to host all Jira related scripts in one place.
 
 ## Environment
 * Python
+* Jupyter Notebook
 * Postman
 
 ## Available Scripts
