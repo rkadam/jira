@@ -9,4 +9,4 @@ This Repository is going to host all Jira related scripts in one place.
 * Postman
 
 ## Available Scripts
-1. [Update all Jira Usernames to their Emails](https://github.com/rkadam/jira/update-jira-usernames)
+1. [Update all Jira Usernames to their Emails](https://github.com/rkadam/jira/tree/master/update-jira-usernames)
