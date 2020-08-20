@@ -21,4 +21,4 @@ You should use **requirements.txt** to load all these libraries!
   * Method **remove_users_from_group** removes listed users from given jira group.
   * Method **get_users** gets list of users for given jira group.
   * Method **update_jira_username** updates username for given user with new username.
-  * Method **process_jira_username_updates** calls __update_jira_username** internally; also takes backup of list of users before updating usernames. 
+  * Method **process_jira_username_updates** calls method _update_jira_username_ internally; also takes backup of list of users before updating usernames.
