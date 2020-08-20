@@ -1,2 +1,5 @@
 *.pyc
 .env
+script-execution.log
+*.csv
+.ipynb_checkpoints/
